@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhanTechDS (Akash Chatterjee)
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python3, HTML, CSS, JS, ReactJS, Next.JS
+- 🌱 I’m currently learning python3, HTML, CSS, JS, ReactJS, Next.JS, Automation Testing
 - 📫 How to reach me akashchatt25@gmail.com
 
 <!---
